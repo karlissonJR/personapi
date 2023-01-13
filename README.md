@@ -6,7 +6,11 @@ Listar todas as pessoas: GET ->
 <br/>
 Salvar pessoa: POST ->
 <a href="http://localhost:8080/api/persons">http://localhost:8080/api/persons</a>
+<br>
 <code>
-  int a = 2;  
+{
+    "name": "Indiana Jones",
+    "birthDate": "1994-06-20"
+}
 </code>
 </p>
